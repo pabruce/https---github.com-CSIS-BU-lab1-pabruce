@@ -1,0 +1,4 @@
+Patrick Bruce 
+243644	
+pbruce@mail.bradley.edu
+I wish to learn how to apply optimal data structures to decrease the run time needed to run a set of data. 
