@@ -1,4 +1,6 @@
 Patrick Bruce 
 243644	
 pbruce@mail.bradley.edu
-I wish to learn how to apply optimal data structures to decrease the run time needed to run a set of data. 
+I wish to learn how to apply optimal data structures to decrease the run time needed to run a set of data.
+I am comfortable with the basic data structures and types like vectors within C++. 
+However I still have trouble with many data structures like hashing or graphs and how to implement them. 
