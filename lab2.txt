@@ -1,0 +1,5 @@
+My first program was accepted however I could not understand the format it wished for on my second program. The program only explains the bare minimum as a compile error or wrong answer. 
+I believe my second program i'm not using the correct formatting?(it wants me to use).
+It took me a couple tries to get the formatting for the hello world question because I initially thought it just wanted the std::cout line and thats it. 
+The program is incredibly specific and I feel does not apprpriate itself to the correct standard of finding and identifying the problem with the code. 
+ 
